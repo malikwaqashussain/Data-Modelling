@@ -12,7 +12,13 @@ The model was redesigned from a highly complex structure into a more organized a
 
 ---
 
-## 🎯 Project Objective
+## Dashboard Overview
+<img width="2559" height="1102" alt="project_data_modelling_dashboard" src="https://github.com/user-attachments/assets/4271b7c8-dbe3-4bb8-b5a6-0160292ab755" />
+
+---
+
+## Project Objective
+<img width="1536" height="1962" alt="data_modelling_before_after" src="https://github.com/user-attachments/assets/3810f6be-85e2-45bb-8963-4fe347436a96" />
 
 The main objective was to redesign the existing data model to:
 
@@ -28,6 +34,7 @@ The main objective was to redesign the existing data model to:
 ---
 
 ## 🔄 Before vs. After
+![Uploading data_modelling_before_after.png…]()
 
 ### Before
 
