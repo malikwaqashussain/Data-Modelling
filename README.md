@@ -1,5 +1,3 @@
-Absolutely. Based on your screenshots and the details you provided, this is a strong **Power BI Data Modeling portfolio project**. I’d position it around the transformation from a messy model into a structured **star-schema semantic model**, rather than simply calling it a Power BI relationship project.
-
 # 📐 Power BI Data Modeling Project
 
 ## Overview
