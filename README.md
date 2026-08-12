@@ -280,39 +280,6 @@ It's about creating a **semantic layer** that ensures:
 
 A well-designed model makes Power BI reports easier to build, faster to maintain, and more trustworthy.
 
----
-
-## 📸 Project Screenshots
-
-### Data Model — Before vs. After
-
-![Before and After Data Model](data_modelling_before_after.png)
-
-### Power BI Report / Model
-
-![Power BI Data Modeling Project](project_data_modelling_dashboard.png)
-
----
-
-## 📁 Suggested Repository Structure
-
-```text
-powerbi-data-modeling-project/
-│
-├── README.md
-│
-├── dashboard/
-│   └── Data_Modeling_Project.pbix
-│
-├── screenshots/
-│   ├── data-model-before-after.png
-│   └── powerbi-data-model.png
-│
-└── documentation/
-    └── modeling-notes.md
-```
-
----
 
 ## 🚀 Skills Demonstrated
 
